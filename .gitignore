@@ -5,5 +5,5 @@ data
 .DS_Store
 images/*
 !images/.keep
-data/invoices/*
-!data/invoices/.keep
+data/*
+!data/invoices
